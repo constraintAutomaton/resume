@@ -1,0 +1,4 @@
+[submodule "resume/basic-typst-resume-template"]
+	path = basic-typst-resume-template
+	url = https://github.com/constraintAutomaton/basic-typst-resume-template.git
+	branch = experiment/html
