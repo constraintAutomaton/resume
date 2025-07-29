@@ -10,12 +10,6 @@
   consistent: true
 )
 
-- Research Topic: Decentralized Web Querying of Knowledge Graphs Databases
-- Teaching assistant for the Knowledge Graphs course
-- Member of the program committee for the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop]
-- Developer for the #link("https://github.com/comunica/comunica")[Comunica software], #quote("[a] knowledge graph querying framework for JavaScript.", attribution: "Comunica")
-
-
 #edu(
   institution: "Université Laval",
   location: "Sainte-Foy, Qc, Canada",

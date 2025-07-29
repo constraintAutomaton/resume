@@ -3,6 +3,15 @@
 == Work Experiences
 
 #work(
+  title: "Decentralized Database Researcher",
+  location: "Gent, Belgium",
+  company: "Universiteit Gent",
+  dates: dates-helper(start-date: "September 2022"),
+)
+
+Research decentralized web querying of knowledge graph databases, assist in the Knowledge Graphs course, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published research papers in the field.
+
+#work(
   title: "Search Engine Developer (Research Assistant)",
   location: "Sainte-Foy, Qc, Canada",
   company: "Université Laval",
@@ -27,7 +36,7 @@ Transformed a 2D excavator localization system into a 3D solution, increasing po
   dates: dates-helper(start-date: "October 2018", end-date: "March 2020"),
 )
 
-Designed and deployed an IoT system for managing hydroponic components in an urban agriculture startup, combining embedded systems (C++, PlatformIO, MQTT, KiCad) with full-stack development (React, TypeScript, Node.js, REST/GraphQL APIs, MongoDB, Node-RED); also led on-site installation and testing.
+Designed and deployed an IoT system for managing hydroponic components in an urban agriculture startup, combining embedded systems (C++, MQTT, KiCad) with full-stack development (React, TypeScript, Node.js, MongoDB, Node-RED); also led on-site installation and testing.
 
 #work(
   title: "IoT Developer (Intern)",

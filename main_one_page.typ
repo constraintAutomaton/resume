@@ -8,8 +8,8 @@
 #let personal-site = "constraint-automaton.pp.ua/"
 #let orcid="0000-0003-3467-9755"
 #let html_output = sys.inputs.at("html", default:false)
-
-
+#let phone = "+32 0472 13 14 28"
+#let linkedin = "linkedin.com/in/bryanelliotttam/"
 #let set_page = true
 
 #if html_output == "true"{
@@ -30,6 +30,8 @@
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
+  phone: phone,
+  linkedin:linkedin,
   set_page:set_page
 )
 
