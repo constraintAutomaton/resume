@@ -18,8 +18,6 @@
   consistent: true
 )
 
-- Thesis topic: Digital Twin to Improve Training and Performance of Forestry Operators
-
 #edu(
   institution: "Université Laval",
   location: "Sainte-Foy, Qc, Canada",

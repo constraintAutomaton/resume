@@ -1,6 +1,6 @@
 == Skills
-- *Programming Languages*: TypeScript, Prolog, Rust, Python, Go, SMT-LIB, C++, Bash
+- *Programming Languages*: TypeScript, Prolog, Rust, Python, Go, SMT-LIB, C++, Bash, SPARQL
 
-- *Technologies*: Linux, Git, SPARQL, RDF, Svelte, Vue.js, React, Docker, Z3,  MongoDB, Neo4j, pyQt, Node-RED, SolidWorks, Creo
+- *Technologies*: Linux, RDF, Svelte, Vue.js, React, Docker,  MongoDB, Neo4j, SolidWorks, Creo
 
-- *Natural Languages*: French, English
+- *Natural Languages*: French (Native), English (Fluent), Dutch (Basic)

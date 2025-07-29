@@ -5,11 +5,11 @@
 #work(
   title: "Decentralized Database Researcher",
   location: "Gent, Belgium",
-  company: "Universiteit Gent",
+  company: "Universiteit Gent and Imec",
   dates: dates-helper(start-date: "September 2022"),
 )
 
-Research decentralized web querying of knowledge graph databases, assist in the Knowledge Graphs course, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published research papers in the field.
+Research decentralized web querying of knowledge graph databases, assist in the Knowledge Graphs course, supervised master's and job students, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published peer-reviewed papers on decentralized knowledge graph querying with associated software implementation.
 
 #work(
   title: "Search Engine Developer (Research Assistant)",
@@ -36,7 +36,7 @@ Transformed a 2D excavator localization system into a 3D solution, increasing po
   dates: dates-helper(start-date: "October 2018", end-date: "March 2020"),
 )
 
-Designed and deployed an IoT system for managing hydroponic components in an urban agriculture startup, combining embedded systems (C++, MQTT, KiCad) with full-stack development (React, TypeScript, Node.js, MongoDB, Node-RED); also led on-site installation and testing.
+Led the development and deployment of an end-to-end IoT platform for urban agriculture at a startup, integrating embedded systems (C++, MQTT, KiCad) with full-stack web development (React, TypeScript, Node.js, MongoDB, Node-RED). Conducted on-site installation and testing, and collaborated with other departments.
 
 #work(
   title: "IoT Developer (Intern)",
