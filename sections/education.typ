@@ -3,7 +3,7 @@
 == Education
 
 #edu(
-  institution: "Universiteit Gent",
+  institution: "Ghent University",
   location: "Gent, Belgium",
   dates: dates-helper(start-date: "2022", end-date: "Present"),
   degree: "Doctorate, Computer Science Engineering",

@@ -3,10 +3,10 @@
 == Work Experiences
 
 #work(
-  title: "Decentralized Database Researcher",
+  title: "Decentralized Database Researcher (PhD Study)",
   location: "Gent, Belgium",
-  company: "Universiteit Gent and Imec",
-  dates: dates-helper(start-date: "September 2022"),
+  company: "Ghent University and Imec",
+  dates: dates-helper(start-date: "September 2022", end-date:"Present"),
 )
 
 Research decentralized web querying of knowledge graph databases, assist in the Knowledge Graphs course, supervised master's and job students, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published peer-reviewed papers on decentralized knowledge graph querying with associated software implementation.
@@ -18,7 +18,7 @@ Research decentralized web querying of knowledge graph databases, assist in the 
   dates: dates-helper(start-date: "May 2022", end-date: "September 2022"),
 )
 
-Developed a custom search engine to support architecture researchers in retrieving relevant literature, using Go, Python, and JavaScript.
+Developed a custom search engine to help architecture researchers retrieve relevant literature, implementing the backend in Go, the recommender system in Python, the frontend in JavaScript.
 
 #work(
   title: "Localization Systems Developer (Research Assistant)",
