@@ -9,7 +9,8 @@
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
 )
 
-Research decentralized web querying of knowledge graph databases, assist in the Knowledge Graphs course, supervised master's and job students, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published peer-reviewed papers on decentralized knowledge graph querying with associated software implementation.
+Design and evaluate scalable solutions for querying decentralized knowledge graphs, assist in the Knowledge Graphs course, supervised master's and job students, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework.
+Published peer-reviewed papers on decentralized knowledge graph querying with associated software implementation.
 
 #work(
   title: "Decentralized Query Optimization Visiting Researcher",
