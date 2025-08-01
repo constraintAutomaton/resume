@@ -3,9 +3,18 @@
 == Work Experiences
 
 #work(
+  title: "Decentralized Query Optimization Visiting Researcher",
+  location: "Nice, France",
+  company: "Inria",
+  dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
+)
+
+Upcoming research stay funded by an #link("https://www.fwo.be/en/support-programmes/all-calls/mobility/grant-for-a-short-study-visit-abroad/")[FWO scholarship], focused on optimizing decentralized SPARQL query execution using data publisher metadata, with implementation in the #link("https://github.com/comunica/comunica")[Comunica] framework.
+
+#work(
   title: "Decentralized Database Researcher – PhD Study",
   location: "Gent, Belgium",
-  company: "Ghent University and Imec",
+  company: "Ghent University – Imec",
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
 )
 
@@ -33,16 +42,8 @@ Transformed a 2D excavator localization system into a 3D solution, increasing po
   title: "IoT and Web Developer",
   location: "Sainte-Foy, Qc, Canada",
   company: "Systèmes Vireo",
-  dates: dates-helper(start-date: "October 2018", end-date: "March 2020"),
+  dates: dates-helper(start-date: "August 2018", end-date: "March 2020"),
 )
 
-Led the development and deployment of an end-to-end IoT platform for urban agriculture at a startup, integrating embedded systems (C++, MQTT, KiCad) with full-stack web development (React, TypeScript, Node.js, MongoDB, Node-RED). Conducted on-site installation and testing, and collaborated with other departments.
-
-#work(
-  title: "IoT Developer – Intern",
-  location: "Sainte-Foy, Qc, Canada",
-  company: "Systèmes Vireo",
-  dates: dates-helper(start-date: "May 2018", end-date: "August 2018"),
-)
-
-Designed electronic systems for hydroponic applications, including schematic design with KiCad and development of a management interface using Python and PyQt.
+Led the development and deployment of an end-to-end IoT platform for urban agriculture at a startup, integrating embedded systems (C++, MQTT, KiCad) with full-stack web development (React, TypeScript, Node.js, MongoDB, Node-RED). 
+Conducted on-site installation and testing, and collaborated with other departments.
