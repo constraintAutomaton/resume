@@ -18,7 +18,10 @@ Upcoming research stay funded by an #link("https://www.fwo.be/en/support-program
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
 )
 
-Design and evaluate scalable solutions for querying decentralized knowledge graphs, assist in the Knowledge Graphs course, supervised master's and job students, serve on the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee, and contribute to the #link("https://github.com/comunica/comunica")[Comunica] framework. Published peer-reviewed papers on decentralized knowledge graph querying with associated software implementation.
+Developed and implemented scalable solutions for querying decentralized knowledge graphs, integrated directly into the #link("https://github.com/comunica/comunica")[Comunica] query engine.
+Published peer-reviewed research.
+Supported the Knowledge Graphs course and supervised master's and job students.
+Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 #work(
   title: "Search Engine Developer – Research Assistant",
