@@ -8,8 +8,8 @@
 #let personal-site = "constraint-automaton.pp.ua/"
 #let orcid="0000-0003-3467-9755"
 #let html_output = sys.inputs.at("html", default:false)
-
-
+#let phone = "+32 0472 13 14 28"
+#let linkedin = "linkedin.com/in/bryanelliotttam/"
 #let set_page = true
 
 #if html_output == "true"{
@@ -30,9 +30,12 @@
   paper: "us-letter",
   author-position: left,
   personal-info-position: left,
+  phone: phone,
+  linkedin:linkedin,
   set_page:set_page
 )
 
+#set text(size: 9.7pt)
 /*
 * Lines that start with == are formatted into section headings
 * You can use the specific formatting functions if needed
@@ -47,11 +50,10 @@
 * #generic-one-by-two(left: "", right: "")
 */
 
-#include "sections/education.typ"
+#include "sections/summary.typ"
 #include "sections/skills.typ"
 #include "sections/work.typ"
-#include "sections/project.typ"
-#include "sections/publication.typ"
+#include "sections/education.typ"
 
 #if html_output == false {
   hidden-bibliography(

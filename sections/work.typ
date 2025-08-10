@@ -18,10 +18,10 @@ Upcoming research stay funded by an #link("https://www.fwo.be/en/support-program
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
 )
 
-Developed and implemented scalable solutions for querying decentralized knowledge graphs, integrated directly into the #link("https://github.com/comunica/comunica")[Comunica] query engine.
-Published peer-reviewed research.
-Supported the Knowledge Graphs course and supervised master's and job students.
-Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
+- Developed and implemented scalable solutions for querying decentralized knowledge graphs, integrated into the #link("https://github.com/comunica/comunica")[Comunica] query engine, with associated peer-reviewed publications.
+- Supported the Knowledge Graphs course and supervised master's and professional students.
+- Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
+
 
 #work(
   title: "Search Engine Developer – Research Assistant",
@@ -48,5 +48,7 @@ Transformed a 2D excavator localization system into a 3D solution, increasing po
   dates: dates-helper(start-date: "August 2018", end-date: "March 2020"),
 )
 
-Led the development and deployment of an end-to-end IoT platform for urban agriculture at a startup, integrating embedded systems (C++, MQTT, KiCad) with full-stack web development (React, TypeScript, Node.js, MongoDB, Node-RED). 
-Conducted on-site installation and testing, and collaborated with other departments.
+- Led development and deployment of an end-to-end IoT platform for urban agriculture at a startup.  
+- Integrated embedded systems using C++, MQTT, and KiCad with full-stack web development technologies including React, TypeScript, Node.js, MongoDB, and Node-RED.  
+- Conducted on-site installation and testing of hardware and software components.  
+- Collaborated cross-functionally with other departments to ensure successful project delivery.  
