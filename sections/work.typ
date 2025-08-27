@@ -19,7 +19,7 @@ Upcoming research stay funded by an #link("https://www.fwo.be/en/support-program
 )
 
 - Developed and implemented scalable solutions for querying decentralized knowledge graphs, integrated into the #link("https://github.com/comunica/comunica")[Comunica] query engine, with associated peer-reviewed publications.
-- Supported the Knowledge Graphs course and supervised master's and professional students.
+- Supported the Knowledge Graphs course and supervised master's and interns.
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 
