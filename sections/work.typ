@@ -3,15 +3,6 @@
 == Work Experiences
 
 #work(
-  title: "Decentralized Query Optimization Visiting Researcher",
-  location: "Nice, France",
-  company: "Inria",
-  dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
-)
-
-Upcoming research stay funded by an #link("https://www.fwo.be/en/support-programmes/all-calls/mobility/grant-for-a-short-study-visit-abroad/")[FWO scholarship], focused on optimizing decentralized SPARQL query execution using data publisher metadata, with implementation in the #link("https://github.com/comunica/comunica")[Comunica] framework.
-
-#work(
   title: "Decentralized Database Researcher – PhD Study",
   location: "Gent, Belgium",
   company: "Ghent University – Imec",
@@ -21,6 +12,15 @@ Upcoming research stay funded by an #link("https://www.fwo.be/en/support-program
 - Developed and implemented scalable solutions for querying decentralized knowledge graphs, integrated into the #link("https://github.com/comunica/comunica")[Comunica] query engine, with associated peer-reviewed publications.
 - Supported the Knowledge Graphs course and supervised master's and interns.
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
+
+#work(
+  title: "Decentralized Query Optimization Visiting Researcher",
+  location: "Nice, France",
+  company: "Inria",
+  dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
+)
+
+Researched and implemented RDF data shape–based optimization algorithms for federated query optimization in the #link("https://github.com/comunica/comunica")[Comunica] framework (FWO-funded project).
 
 
 #work(
