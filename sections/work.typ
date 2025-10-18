@@ -3,7 +3,7 @@
 == Work Experiences
 
 #work(
-  title: "Decentralized Database Researcher – PhD Study",
+  title: "Decentralized Database Researcher",
   location: "Gent, Belgium",
   company: "Ghent University – Imec",
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
@@ -14,7 +14,7 @@
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 #work(
-  title: "Decentralized Query Optimization Visiting Researcher",
+  title: "Decentralized Database Visiting Researcher",
   location: "Nice, France",
   company: "Inria",
   dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
@@ -24,7 +24,7 @@ Researched and implemented RDF data shape–based optimization algorithms for fe
 
 
 #work(
-  title: "Search Engine Developer – Research Assistant",
+  title: "Search Engine Developer - Contract",
   location: "Sainte-Foy, Qc, Canada",
   company: "Université Laval",
   dates: dates-helper(start-date: "May 2022", end-date: "September 2022"),
@@ -33,7 +33,7 @@ Researched and implemented RDF data shape–based optimization algorithms for fe
 Developed a custom search engine to help architecture researchers retrieve relevant literature, implementing the backend in Go, the recommender system in Python, the frontend in JavaScript.
 
 #work(
-  title: "Localization Systems Developer – Research Assistant",
+  title: "Localization Systems Developer - Contract",
   location: "Sainte-Foy, Qc, Canada",
   company: "Université Laval",
   dates: dates-helper(start-date: "May 2020", end-date: "September 2020"),
@@ -48,7 +48,7 @@ Transformed a 2D excavator localization system into a 3D solution, increasing po
   dates: dates-helper(start-date: "August 2018", end-date: "March 2020"),
 )
 
-- Led development and deployment of an end-to-end IoT platform for urban agriculture at a startup.  
-- Integrated embedded systems using C++, MQTT, and KiCad with full-stack web development technologies including React, TypeScript, Node.js, MongoDB, and Node-RED.  
-- Conducted on-site installation and testing of hardware and software components.  
-- Collaborated cross-functionally with other departments to ensure successful project delivery.  
+- Led development and deployment of an end-to-end IoT platform for urban agriculture at a startup.
+- Integrated embedded systems using C++, MQTT, and KiCad with full-stack web development technologies including React, TypeScript, Node.js, MongoDB, and Node-RED.
+- Conducted on-site installation and testing of hardware and software components.
+- Collaborated cross-functionally with other departments to ensure successful project delivery.
