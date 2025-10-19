@@ -3,7 +3,7 @@
 == Work Experiences
 
 #work(
-  title: "Decentralized Database Researcher",
+  title: "Research Software Engineer – Decentralized Databases",
   location: "Gent, Belgium",
   company: "Ghent University – Imec",
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
@@ -14,7 +14,7 @@
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 #work(
-  title: "Decentralized Database Visiting Researcher",
+  title: "Research Software Engineer – Decentralized Databases",
   location: "Nice, France",
   company: "Inria",
   dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
