@@ -3,7 +3,7 @@
 == Work Experiences
 
 #work(
-  title: "Research Software Engineer – Decentralized Databases",
+  title: "Software Engineer – Decentralized Databases",
   location: "Gent, Belgium",
   company: "Ghent University – Imec",
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
@@ -14,14 +14,13 @@
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 #work(
-  title: "Research Software Engineer – Decentralized Databases",
+  title: "Software Engineer – Decentralized Databases",
   location: "Nice, France",
   company: "Inria",
   dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
 )
 
-Researched and implemented RDF data shape–based optimization algorithms for federated query optimization in the #link("https://github.com/comunica/comunica")[Comunica] framework (FWO-funded project).
-
+Developed optimization techniques for federated queries in the #link("https://github.com/comunica/comunica")[Comunica] framework using RDF data shapes (FWO research stay).
 
 #work(
   title: "Search Engine Developer - Contract",
