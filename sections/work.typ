@@ -3,7 +3,7 @@
 == Work Experiences
 
 #work(
-  title: "Software Engineer – Decentralized Databases",
+  title: "Software Engineer (Decentralized Databases)",
   location: "Gent, Belgium",
   company: "Ghent University – Imec",
   dates: dates-helper(start-date: "September 2022", end-date:"Present"),
@@ -14,7 +14,7 @@
 - Contributed to community engagement through the #link("https://semantics2025.semdev.org/")[SEMANTiCS 2025 Developers Workshop] committee and the #link("https://www.w3.org/community/treecg/")[TREE W3C Community Group].
 
 #work(
-  title: "Software Engineer – Decentralized Databases",
+  title: "Research Software Engineer – Research Stay",
   location: "Nice, France",
   company: "Inria",
   dates: dates-helper(start-date: "September 2025", end-date:"October 2025"),
@@ -23,7 +23,7 @@
 Developed optimization techniques for federated queries in the #link("https://github.com/comunica/comunica")[Comunica] framework using RDF data shapes (FWO research stay).
 
 #work(
-  title: "Search Engine Developer - Contract",
+  title: "Search Engine Developer – Contract",
   location: "Sainte-Foy, Qc, Canada",
   company: "Université Laval",
   dates: dates-helper(start-date: "May 2022", end-date: "September 2022"),
@@ -32,7 +32,7 @@ Developed optimization techniques for federated queries in the #link("https://gi
 Developed a custom search engine to help architecture researchers retrieve relevant literature, implementing the backend in Go, the recommender system in Python, the frontend in JavaScript.
 
 #work(
-  title: "Localization Systems Developer - Contract",
+  title: "Localization Systems Developer – Contract",
   location: "Sainte-Foy, Qc, Canada",
   company: "Université Laval",
   dates: dates-helper(start-date: "May 2020", end-date: "September 2020"),
