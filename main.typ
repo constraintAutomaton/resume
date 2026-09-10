@@ -5,7 +5,6 @@
 #let name = "Bryan-Elliott Tam"
 #let email = "bryan_elliott_tam@protonmail.com"
 #let github = "github.com/constraintAutomaton"
-#let personal-site = "constraint-automaton.pp.ua/"
 #let orcid="0000-0003-3467-9755"
 #let html_output = sys.inputs.at("html", default:false)
 #let phone = "+32 0472 13 14 28"
@@ -24,7 +23,6 @@
   email: email,
   orcid:orcid,
   github: github,
-  personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
   paper: "us-letter",
@@ -35,7 +33,7 @@
   set_page:set_page
 )
 
-#set text(size: 9.7pt)
+#set text(size: 9.3pt)
 /*
 * Lines that start with == are formatted into section headings
 * You can use the specific formatting functions if needed

@@ -1,3 +1,4 @@
-Software Engineer with experience in applied R&D, symbolic reasoning, knowledge representation, and web development.
-Seeking opportunities in software engineering, AI, and applied R&D.
-Personal projects and open-source contributions available at #link("https://constraint-automaton.pp.ua/project")[https://constraint-automaton.pp.ua/project].
+#import "../personal.typ": personal-site
+
+Software engineer with an R&D background in symbolic AI, knowledge representation, and query engines. Builds across the stack, including web, distributed data, and embedded systems.
+Open-source work and side projects at #link("https://" + personal-site + "project")[#(personal-site + "project")].
